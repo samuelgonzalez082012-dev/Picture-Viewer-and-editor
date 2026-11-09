@@ -1,0 +1,18 @@
+{
+  "name": "ruddy-zebra-predict-b3n20",
+  "productName": "ruddy-zebra-predict-b3n20",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "samue",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@huggingface/transformers": "4.3.2"
+  },
+  "devDependencies": {
+    "electron": "43.4.0"
+  }
+}
